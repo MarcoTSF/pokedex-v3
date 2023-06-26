@@ -6,12 +6,13 @@
 }
 
 body {
+    overflow-x: hidden;
     background-color: #e7e9ec;
 }
 
 .content {
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     padding: 1rem;
     background-color: #FFF;
 }
