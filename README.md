@@ -22,13 +22,13 @@ O objetivo deste projeto é criar uma Pokédex que permita aos usuários visuali
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/pokedex-third-project
+git clone https://github.com/MarcoTSF/pokedex-v3
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd pokedex-third-project
+cd pokedex-v3
 ```
 
 3. Abra o arquivo `index.html` no seu navegador.
